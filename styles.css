@@ -88,6 +88,7 @@ code {
     margin: 0.5em 1em 2em 2em;
     border-radius: 5px;
     font-weight: bold;
+    overflow-wrap: break-word;
 }
 
 /* Back to top button */
